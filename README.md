@@ -3,7 +3,7 @@
 
     conda create -n pytorch python=3.8  
     conda activate pytorch  
-    conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge  
+    conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11. -c pytorch -c conda-forge  
     pip install matplotlib scikit-image opencv-python numpy blobfile tqdm pyYaml pillow tensorboard 
 
 ## Before runing, please download the pre-trained DDPM model. Here are the download links for each model checkpoint:
@@ -18,7 +18,11 @@
         512x512 classifier: 512x512_classifier.pt  
         512x512 diffusion: 512x512_diffusion.pt  
         64x64 -> 256x256 upsampler: 64_256_upsampler.pt  
-        128x128 -> 512x512 upsampler: 128_512_upsampler.pt  
+        128x128 -> 512x512 upsampler: 128_512_upsampler.pt
+
+## Datesets
+        Please download the dataset for the corresponding task  
+        For example, the underwater image dataset can be downloaded from here https://drive.google.com/file/d/1Ew_r83nXzVk0hlkfuomWqsAIxuq6kaN4/view
 
 ## Train and Test:  
 
