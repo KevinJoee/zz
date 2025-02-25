@@ -26,7 +26,7 @@ Train and Test:<br />
         For more details, see [guided-diffusion](https://github.com/openai/guided-diffusion)
 
 Results: <br />
-![image](https://github.com/user-attachments/assets/d0f2b17b-8ffb-46b8-a5e5-25cada06d9d8)
-![image](https://github.com/user-attachments/assets/ae63cd2a-7720-418c-ac69-737f82f4baa4)
+![image](https://github.com/user-attachments/assets/d0f2b17b-8ffb-46b8-a5e5-25cada06d9d8)<br />
+![image](https://github.com/user-attachments/assets/ae63cd2a-7720-418c-ac69-737f82f4baa4)<br />
 
 
