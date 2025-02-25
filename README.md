@@ -1,4 +1,4 @@
-# This repository contains PyTorch implementation.
+# This repository contains PyTorch implementation for PhyDiff.
 ## For installing, follow these intructions:
 
     conda create -n pytorch python=3.8  
