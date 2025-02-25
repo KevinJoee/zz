@@ -28,7 +28,9 @@
 
         python train.py  
         
-        For more details, refer to [guided-diffusion](https://github.com/openai/guided-diffusion)
+        For more details, refer to [guided-diffusion](https://github.com/openai/guided-diffusion)  
+        [查看 Issue #1](https://github.com/your-username/your-repo/issues/1)
+[查看 PR #2](https://github.com/your-username/your-repo/pull/2)
 
 ## Results:  
 ![image](https://github.com/user-attachments/assets/ae63cd2a-7720-418c-ac69-737f82f4baa4)  
