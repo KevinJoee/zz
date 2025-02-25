@@ -1,10 +1,10 @@
 # This repository contains PyTorch implementation.
 For installing, follow these intructions:
 
-conda create -n pytorch python=3.8
-conda activate pytorch
-conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge
-pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm kornia tensorboard ptflops
+conda create -n pytorch python=3.8<br />
+conda activate pytorch<br />
+conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge<br />
+pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm kornia tensorboard ptflops<br />
 
 Before runing, please download the pre-trained DDPM model. Here are the download links for each model checkpoint:
 
