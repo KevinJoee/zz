@@ -8,18 +8,19 @@ For installing, follow these intructions:
 
 Before runing, please download the pre-trained DDPM model. Here are the download links for each model checkpoint:
 
-64x64 classifier: 64x64_classifier.pt
-64x64 diffusion: 64x64_diffusion.pt
-128x128 classifier: 128x128_classifier.pt
-128x128 diffusion: 128x128_diffusion.pt
-256x256 classifier: 256x256_classifier.pt
-256x256 diffusion: 256x256_diffusion.pt
-256x256 diffusion (not class conditional): 256x256_diffusion_uncond.pt
-512x512 classifier: 512x512_classifier.pt
-512x512 diffusion: 512x512_diffusion.pt
-64x64 -> 256x256 upsampler: 64_256_upsampler.pt
-128x128 -> 512x512 upsampler: 128_512_upsampler.pt
+        64x64 classifier: 64x64_classifier.pt<br />
+        64x64 diffusion: 64x64_diffusion.pt<br />
+        128x128 classifier: 128x128_classifier.pt<br />
+        128x128 diffusion: 128x128_diffusion.pt<br />
+        256x256 classifier: 256x256_classifier.pt<br />
+        256x256 diffusion: 256x256_diffusion.pt<br />
+        256x256 diffusion (not class conditional): 256x256_diffusion_uncond.pt<br />
+        512x512 classifier: 512x512_classifier.pt<br />
+        512x512 diffusion: 512x512_diffusion.pt<br />
+        64x64 -> 256x256 upsampler: 64_256_upsampler.pt<br />
+        128x128 -> 512x512 upsampler: 128_512_upsampler.pt<br />
 
-Train and Test:
+Train and Test:<br />
 
-python train.py
+        python train.py<br />
+        For more details, see [guided-diffusion](https://github.com/openai/guided-diffusion)
