@@ -23,6 +23,7 @@
 ## Train and Test:  
 
         python train.py  
+        
         For more details, see [guided-diffusion](https://github.com/openai/guided-diffusion)
 
 ## Results:  
