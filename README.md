@@ -27,9 +27,7 @@
 ## Train and Test:  
 
         python train.py  
-        
-        For more details, refer to [guided-diffusion](https://github.com/openai/guided-diffusion)  
-        
+                
 For more details, please refer to [guided-diffusion](https://github.com/openai/guided-diffusion)  
 
 ## Results:  
